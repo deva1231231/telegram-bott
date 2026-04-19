@@ -2,7 +2,7 @@ import os
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("8688177518:AAGTlUdXZQf1l_iYykz7ZpW9R27FA9jyBII")
 
 answers = {
     "q1": "Shrishti (obviously 😌)",
